@@ -213,7 +213,7 @@ html,body{
 .wrapper-sticky{
 	position: relative;
 	display: inline-block;
-	background: rgba(115,112,216,1);
+	background: #f58e41;
 }
 
 /* sticky */
